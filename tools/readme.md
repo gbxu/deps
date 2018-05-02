@@ -14,7 +14,7 @@ then
 * `/home/username` meas the directory where you want to put your logs
 * `pre` meas the logs prefix
 
-finally, you will get `3` files in `/home/username` as follows:
+finally, you will get `3` log files and 1 `repeat_test.out`in `/home/username` as follows:
 ```bash
 username@ubuntu:ls
 pre_test_yours_0.txt
